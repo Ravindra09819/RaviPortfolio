@@ -39,7 +39,7 @@ const projects = [
   {
     title: "Invoice Billing System",
     desc: "Role-based billing system where customers view invoices and CAs manage clients with real-time product APIs.",
-    image: "/assets/invoice.png",
+    image: invoice1,
     github: "#",
     live: "#",
     tech: ["react", "node", "express", "mongo"],
