@@ -4,6 +4,8 @@ import Contact from "./components/Contact";
 import profile from "./assets/profile.png";
 import news from "./assets/news.png";
 import invoice1 from "./assets/invoice1.jpeg";
+import ravi from "./assets/ravi.jpeg";
+
 import rds from "./assets/rds.png";
 import education from "./assets/education.png";
 
@@ -39,7 +41,7 @@ const projects = [
   {
     title: "Invoice Billing System",
     desc: "Role-based billing system where customers view invoices and CAs manage clients with real-time product APIs.",
-    image: invoice1,
+    image: ravi,
     github: "#",
     live: "#",
     tech: ["react", "node", "express", "mongo"],
