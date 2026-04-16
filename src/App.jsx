@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import Contact from "./components/Contact";
 import profile from "./assets/profile.png";
 import news from "./assets/news.png";
-import ravi from "./assets/ravi.jpeg";
+import ravi from "./assets/ravi.png";
 
 import rds from "./assets/rds.png";
 import education from "./assets/education.png";
